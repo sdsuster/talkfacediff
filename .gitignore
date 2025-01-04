@@ -1,0 +1,8 @@
+*pycache*
+latent_diffusion.egg-info
+logs
+taming/modules/
+checkpoints/
+.env
+download.py
+lightning_logs
