@@ -22,9 +22,10 @@ dependencies:
     - streamlit>=0.73.1
     - einops==0.3.0
     - torch-fidelity==0.3.0
-    - transformers
-    - monai
-    - nibabel
+    - transformers==4.19
+    - librosa
+    - kornia
+    - open_clip_torch==2.7.0
     - python-dotenv
     - comet-ml>=3.31.0
     - -e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers

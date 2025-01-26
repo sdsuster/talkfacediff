@@ -6,3 +6,6 @@ checkpoints/
 .env
 download.py
 lightning_logs
+data/utils
+pretrained
+outputs
